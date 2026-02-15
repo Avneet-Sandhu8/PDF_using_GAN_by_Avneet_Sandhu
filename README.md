@@ -1,6 +1,6 @@
 # PDF_using_GAN_by_Avneet_Sandhu
 
-# PDF_using_GAN_by_Avneet_Sandhu
+
 
 ## 📌 Objective
 To learn the unknown probability density function (PDF) of a transformed NO₂ concentration variable using a Generative Adversarial Network (GAN).
