@@ -1,7 +1,7 @@
-# 📊 PDF Learning using GAN - NO₂ Concentration Distribution
+# PDF Learning using GAN - NO₂ Concentration Distribution
 
-**👤 Name:** Avneet Sandhu  
-**🎓 Roll Number:** 102303289  
+**Name:** Avneet Sandhu  
+**Roll Number:** 102303289  
 
 ---
 
@@ -11,7 +11,7 @@ To learn the unknown probability density function (PDF) of a transformed NO₂ c
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 **Feature used:**
 - **NO₂ concentration** (`no2` column)
@@ -20,7 +20,7 @@ To learn the unknown probability density function (PDF) of a transformed NO₂ c
 
 ---
 
-## 🔄 Transformation
+## Transformation
 
 The original variable `x` is transformed into:
 
@@ -90,7 +90,7 @@ This transformation introduces non-linearity through the sine function, creating
 
 ## Results
 
-### 🔹 PDF Comparison
+### PDF Comparison
 ![PDF Comparison](results/pdf_comparison.png)
 
 **Description:** This plot compares the probability density functions of the real transformed NO₂ data (blue) against the GAN-learned distribution (orange). The close alignment demonstrates the GAN's ability to accurately capture the underlying probability distribution.
@@ -128,12 +128,3 @@ PDF_using_GAN_by_Avneet_Sandhu/
 └── PDF_using_GAN.ipynb                         
 ```
 ---
-
-
-<div align="center">
-  
-### 🎯 Made with ❤️ for Machine Learning and Deep Learning
-
-**Happy Learning! 🚀**
-
-</div>
